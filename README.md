@@ -1,6 +1,6 @@
 # Trabalho-Arduino
 
- ============================================================
+
   ESP32 - Coordenação de Laboratórios
  ============================================================
   Missão:
@@ -16,10 +16,10 @@
   - média >= 0.5 → LED apagado (ok)
 
   Mapeamento de LEDs:
-   Lab1 → GPIO 2
-   Lab2 → GPIO 4
-   Lab3 → GPIO 5
-   Lab4 → GPIO 18
-   Lab5 → GPIO 19
- ============================================================
+  - Lab1 → GPIO 2
+  - Lab2 → GPIO 4
+  - Lab3 → GPIO 5
+  - Lab4 → GPIO 18
+  - Lab5 → GPIO 19
+
 
